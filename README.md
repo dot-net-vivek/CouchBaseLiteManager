@@ -2,6 +2,12 @@
 
 A modern, intuitive Windows application for managing CouchBase Lite databases with a beautiful Blazor Hybrid interface.
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
+![WebView2](https://img.shields.io/badge/WebView2-Required-orange.svg)
+
+
 ## 🚀 Features
 
 - **Database Management**: Create, open, and manage CouchBase Lite databases
